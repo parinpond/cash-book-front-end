@@ -103,7 +103,7 @@ export default function SignInSide() {
                 variant="contained"
                 sx={{ mt: 3, mb: 2 }}
               >
-                Sign In
+                Sign On
               </Button>
               <Copyright sx={{ mt: 5 }} />
             </Box>
